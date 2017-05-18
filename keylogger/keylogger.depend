@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1495066791 source:d:\cs\keylogger_project\keylogger\main.cpp
+	<iostream>
+	<windows.h>
+	"Helper.h"
+	"keyConstants.h"
+	"Base64.h"
+	"IO.h"
+	"Timer.h"
+	"SendMail.h"
+	"KeybHook.h"
+	"scp.h"
+
+1495077297 d:\cs\keylogger_project\keylogger\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1494468627 d:\cs\keylogger_project\keylogger\keyconstants.h
+	<map>
+	<string>
+
+1494725232 d:\cs\keylogger_project\keylogger\base64.h
+	<vector>
+	<string>
+	<sstream>
+	<fstream>
+
+1495071839 d:\cs\keylogger_project\keylogger\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	"windows.h"
+	"Helper.h"
+	"Base64.h"
+	"scp.h"
+
+1494652875 d:\cs\keylogger_project\keylogger\timer.h
+	<thread>
+	<chrono>
+
+1495077497 d:\cs\keylogger_project\keylogger\sendmail.h
+	<fstream>
+	<vector>
+	"windows.h"
+	"IO.h"
+	"Timer.h"
+	"Helper.h"
+
+1495077497 d:\cs\keylogger_project\keylogger\keybhook.h
+	<iostream>
+	<fstream>
+	<vector>
+	"windows.h"
+	"keyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+
+1495069652 d:\cs\keylogger_project\keylogger\scp.h
+	<windows.h>
+	<stdio.h>
+	<gdiplus.h>
+	<string>
+
